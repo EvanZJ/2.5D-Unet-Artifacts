@@ -1,0 +1,12 @@
+{
+  "model_id": "mdl_20260615_011243_a3_s123_w3_e50_8dcadcc0",
+  "epoch": 36,
+  "metrics": {
+    "val.dice": 0.5563584929487555,
+    "val.sensitivity": 0.5368336782818908
+  },
+  "metric_paths": [
+    "val.dice",
+    "val.sensitivity"
+  ]
+}

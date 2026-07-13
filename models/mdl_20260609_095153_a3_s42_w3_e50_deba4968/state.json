@@ -1,0 +1,162 @@
+{
+  "model_id": "mdl_20260609_095153_a3_s42_w3_e50_deba4968",
+  "epoch": 3,
+  "latest": {
+    "epoch": 3,
+    "train": {
+      "loss": 0.0,
+      "loss_bce": 0.0,
+      "loss_jaccard": 0.0,
+      "pred_pos_frac": 0.0,
+      "tp": 0.0,
+      "fp": 0.0,
+      "tn": 0.0,
+      "fn": 0.0,
+      "dice": 0.0,
+      "iou": 0.0,
+      "sensitivity": 0.0,
+      "specificity": 0.0,
+      "precision": 0.0,
+      "npv": 0.0,
+      "fpr": 0.0,
+      "fnr": 0.0,
+      "accuracy": 0.0,
+      "balanced_accuracy": 0.0,
+      "f1": 0.0,
+      "slice_macro": {
+        "tp": 0.0,
+        "fp": 0.0,
+        "tn": 0.0,
+        "fn": 0.0,
+        "dice": 0.0,
+        "iou": 0.0,
+        "sensitivity": 0.0,
+        "specificity": 0.0,
+        "precision": 0.0
+      },
+      "series_macro": {
+        "tp": 0.0,
+        "fp": 0.0,
+        "tn": 0.0,
+        "fn": 0.0,
+        "dice": 0.0,
+        "iou": 0.0,
+        "sensitivity": 0.0,
+        "specificity": 0.0,
+        "precision": 0.0
+      },
+      "global": {
+        "tp": 0.0,
+        "fp": 0.0,
+        "tn": 0.0,
+        "fn": 0.0,
+        "dice": 0.0,
+        "iou": 0.0,
+        "sensitivity": 0.0,
+        "specificity": 0.0,
+        "precision": 0.0
+      },
+      "hd95": {
+        "slice_2d_macro": 0.0,
+        "series_2d_macro": 0.0,
+        "series_3d_macro": 0.0
+      },
+      "froc": {
+        "series_macro": {
+          "average_precision": 0.0
+        },
+        "global": {
+          "average_precision": 0.0
+        }
+      }
+    },
+    "val": {
+      "loss": NaN,
+      "loss_bce": NaN,
+      "loss_jaccard": NaN,
+      "pred_pos_frac": 0.0,
+      "tp": 0.0,
+      "fp": 0.0,
+      "tn": 2784581399.0,
+      "fn": 1222889.0,
+      "dice": 8.177357061836211e-13,
+      "iou": 8.177357061836211e-13,
+      "sensitivity": 8.177357061836211e-13,
+      "specificity": 1.0,
+      "precision": 1.0,
+      "npv": 0.9995610283876482,
+      "fpr": 3.591204050846278e-16,
+      "fnr": 1.0,
+      "accuracy": 0.9995610283876482,
+      "balanced_accuracy": 0.5000000000004089,
+      "f1": 8.177357061836211e-13,
+      "steps": 1519,
+      "slice_macro": {
+        "tp": 0.0,
+        "fp": 0.0,
+        "tn": 2784581399.0,
+        "fn": 1222889.0,
+        "dice": 8.856914294816657e-10,
+        "iou": 8.856914294816657e-10,
+        "sensitivity": 8.856914294816657e-10,
+        "specificity": 1.0,
+        "precision": 1.0,
+        "npv": 0.9995610283876482,
+        "fpr": 2.154555890067079e-14,
+        "fnr": 1.0,
+        "accuracy": 0.9995610283876482,
+        "balanced_accuracy": 0.5000000004428456,
+        "f1": 8.856914294816657e-10
+      },
+      "series_macro": {
+        "tp": 0.0,
+        "fp": 0.0,
+        "tn": 2784581399.0,
+        "fn": 1222889.0,
+        "dice": 9.115794277368632e-10,
+        "iou": 9.115794277368632e-10,
+        "sensitivity": 9.115794277368632e-10,
+        "specificity": 1.0,
+        "precision": 1.0,
+        "npv": 0.999639539061085,
+        "fpr": 2.3394235161833726e-14,
+        "fnr": 1.0,
+        "accuracy": 0.999639539061085,
+        "balanced_accuracy": 0.5000000004557899,
+        "f1": 9.115794277368632e-10
+      },
+      "global": {
+        "tp": 0.0,
+        "fp": 0.0,
+        "tn": 2784581399.0,
+        "fn": 1222889.0,
+        "dice": 8.177357061836211e-13,
+        "iou": 8.177357061836211e-13,
+        "sensitivity": 8.177357061836211e-13,
+        "specificity": 1.0,
+        "precision": 1.0,
+        "npv": 0.9995610283876482,
+        "fpr": 3.591204050846278e-16,
+        "fnr": 1.0,
+        "accuracy": 0.9995610283876482,
+        "balanced_accuracy": 0.5000000000004089,
+        "f1": 8.177357061836211e-13
+      },
+      "hd95": {
+        "slice_2d_macro": 0.0,
+        "series_3d_macro": 0.0,
+        "series_2d_macro": 735.5710261027018
+      },
+      "froc": {
+        "series_macro": {
+          "average_precision": 0.0
+        },
+        "global": {
+          "average_precision": 0.0
+        }
+      },
+      "nan_batches": 1519
+    },
+    "lr": 9.964516155915151e-05
+  }
+}

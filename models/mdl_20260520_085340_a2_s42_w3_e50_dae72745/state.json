@@ -1,0 +1,143 @@
+{
+  "model_id": "mdl_20260520_085340_a2_s42_w3_e50_dae72745",
+  "epoch": 4,
+  "latest": {
+    "epoch": 4,
+    "train": {
+      "loss": 0.0,
+      "loss_bce": 0.0,
+      "loss_jaccard": 0.0,
+      "pred_pos_frac": 0.0,
+      "tp": 0.0,
+      "fp": 0.0,
+      "tn": 0.0,
+      "fn": 0.0,
+      "dice": 0.0,
+      "iou": 0.0,
+      "sensitivity": 0.0,
+      "specificity": 0.0,
+      "precision": 0.0,
+      "npv": 0.0,
+      "fpr": 0.0,
+      "fnr": 0.0,
+      "accuracy": 0.0,
+      "balanced_accuracy": 0.0,
+      "f1": 0.0,
+      "slice_macro": {
+        "tp": 0.0,
+        "fp": 0.0,
+        "tn": 0.0,
+        "fn": 0.0,
+        "dice": 0.0,
+        "iou": 0.0,
+        "sensitivity": 0.0,
+        "specificity": 0.0,
+        "precision": 0.0
+      },
+      "series_macro": {
+        "tp": 0.0,
+        "fp": 0.0,
+        "tn": 0.0,
+        "fn": 0.0,
+        "dice": 0.0,
+        "iou": 0.0,
+        "sensitivity": 0.0,
+        "specificity": 0.0,
+        "precision": 0.0
+      },
+      "global": {
+        "tp": 0.0,
+        "fp": 0.0,
+        "tn": 0.0,
+        "fn": 0.0,
+        "dice": 0.0,
+        "iou": 0.0,
+        "sensitivity": 0.0,
+        "specificity": 0.0,
+        "precision": 0.0
+      },
+      "hd95": {
+        "slice_2d_macro": 0.0,
+        "series_2d_macro": 0.0,
+        "series_3d_macro": 0.0
+      },
+      "froc": {
+        "series_macro": {
+          "average_precision": 0.0
+        },
+        "global": {
+          "average_precision": 0.0
+        }
+      }
+    },
+    "val": {
+      "loss": 0.0,
+      "loss_bce": 0.0,
+      "loss_jaccard": 0.0,
+      "pred_pos_frac": 0.0,
+      "tp": 0.0,
+      "fp": 0.0,
+      "tn": 0.0,
+      "fn": 0.0,
+      "dice": 0.0,
+      "iou": 0.0,
+      "sensitivity": 0.0,
+      "specificity": 0.0,
+      "precision": 0.0,
+      "npv": 0.0,
+      "fpr": 0.0,
+      "fnr": 0.0,
+      "accuracy": 0.0,
+      "balanced_accuracy": 0.0,
+      "f1": 0.0,
+      "steps": 0,
+      "slice_macro": {
+        "tp": 0.0,
+        "fp": 0.0,
+        "tn": 0.0,
+        "fn": 0.0,
+        "dice": 0.0,
+        "iou": 0.0,
+        "sensitivity": 0.0,
+        "specificity": 0.0,
+        "precision": 0.0
+      },
+      "series_macro": {
+        "tp": 0.0,
+        "fp": 0.0,
+        "tn": 0.0,
+        "fn": 0.0,
+        "dice": 0.0,
+        "iou": 0.0,
+        "sensitivity": 0.0,
+        "specificity": 0.0,
+        "precision": 0.0
+      },
+      "global": {
+        "tp": 0.0,
+        "fp": 0.0,
+        "tn": 0.0,
+        "fn": 0.0,
+        "dice": 0.0,
+        "iou": 0.0,
+        "sensitivity": 0.0,
+        "specificity": 0.0,
+        "precision": 0.0
+      },
+      "hd95": {
+        "slice_2d_macro": 0.0,
+        "series_2d_macro": 0.0,
+        "series_3d_macro": 0.0
+      },
+      "froc": {
+        "series_macro": {
+          "average_precision": 0.0
+        },
+        "global": {
+          "average_precision": 0.0
+        }
+      }
+    },
+    "lr": 0.009911524817389801
+  }
+}
